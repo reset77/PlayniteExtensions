@@ -375,7 +375,7 @@ Profiles:
 
   - Name: FinalBurn Neo
     StartupArguments: '-L ".\cores\fbneo_libretro.dll" "{ImagePath}"'
-    Platforms: [arcade]
+    Platforms: [arcade, snk_neogeo_aes]
     ImageExtensions: [zip,7z]
     ProfileFiles: ['cores\fbneo_libretro.dll']
     StartupExecutable: ^retroarch\.exe\$
