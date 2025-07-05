@@ -422,7 +422,7 @@
 - Name: SNK Neo Geo AES
   Id: snk_neogeo_aes
   IgdbId: 80
-  Emulators: [ares]
+  Emulators: [ares, fbneo, retroarch]
   
 - Name: SNK Neo Geo CD
   Id: snk_neogeo_cd
